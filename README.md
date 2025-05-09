@@ -25,6 +25,9 @@
   <a href="https://discord.com/users/researchdhamala" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="https://facebook.com/researchdhamala" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
@@ -59,9 +62,10 @@
 ---
 
 ### ⚡ Fun Fact
-> I like to code html and css but I donot like to build ui.
-### ⚡Main Fact
-> I like to work in more functionality project not building ui.
+> I enjoy coding in HTML and CSS, but I prefer building logic and functionality over designing user interfaces.
+
+### 🧠 True Strength
+> I'm most passionate about bringing ideas to life by developing functional, feature-rich applications.
 
 ---
 
